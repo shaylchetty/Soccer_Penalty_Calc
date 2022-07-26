@@ -1,12 +1,14 @@
 # Soccer_Penalty_Calc
 GUI allows user to drag soccer ball around goal, and based on several factors like shot speed and goal keeper reaction time, calculates whether the shot will be saved or not. (Python)
 
-Project split into two classes: image.py and soccer.py
 
-Image.py runs the program and create the GUI using pygame
+Project split into two classes: image.py and soccer.py:
 
-Soccer.py performs the calculations pertaining to whether or not the goalkeeper will have sufficient time to save the shot.
--user may alter shot location, shot speed, goal keeper reaction time to acheive desired shot profile
+1) Image.py runs the program and create the GUI using pygame
+
+2) Soccer.py performs the calculations pertaining to whether or not the goalkeeper will have sufficient time to save the shot.
+  -user may alter shot location, shot speed, goal keeper reaction time to acheive desired shot profile
+
 
 As the user drags the soccer ball to new locations around the goal, the program will output three different scenarios:
 
