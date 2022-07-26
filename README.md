@@ -2,7 +2,7 @@
 GUI allows user to drag soccer ball around goal, and based on several factors like shot speed and goal keeper reaction time, calculates whether the shot will be saved or not. (Python)
 
 
-Project split into two classes: image.py and soccer.py:
+Project split into two classes: image.py and soccer.py
 
 1) Image.py runs the program and create the GUI using pygame
 
