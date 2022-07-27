@@ -6,9 +6,7 @@ Project split into two classes: image.py and soccer.py
 
 1) Image.py runs the program and create the GUI using pygame
 
-2) Soccer.py performs the calculations pertaining to whether or not the goalkeeper will have sufficient time to save the shot.
-  
-  -user may alter shot location, shot speed, goalkeeper reaction time to acheive desired shot profile
+2) Soccer.py performs the calculations pertaining to whether or not the goalkeeper will have sufficient time to save the shot. (user may alter shot location, shot speed, goalkeeper reaction time to acheive desired shot profile)
 
 
 As the user drags the soccer ball to new locations around the goal, the program will output three different scenarios:
