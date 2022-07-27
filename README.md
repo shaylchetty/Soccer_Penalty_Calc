@@ -27,7 +27,9 @@ If the ball's outline is green, then the goalkeeper does not have enough time to
 ![Green](https://user-images.githubusercontent.com/102982612/181078957-39e97a9e-8184-4a7f-9712-2346d2772289.png)
 
 
-3) Lastly if the soccer ball's outline is orange, it may be possible for the goalkeeper to save the ball (essentially if the goalkeeper reacts within reasonable time, he will block the ball before it goes in). In this case, at the bottom of the screen, the program will display how much time the keeper has to react, if he wants to save the ball in time.
+3) Soccer Ball Outlined in ORANGE
+
+Lastly if the soccer ball's outline is orange, it may be possible for the goalkeeper to save the ball (essentially if the goalkeeper reacts within reasonable time, he will block the ball before it goes in). In this case, at the bottom of the screen, the program will display how much time the keeper has to react, if he wants to save the ball in time.
 
 ![Orange](https://user-images.githubusercontent.com/102982612/181079382-581ea4ae-f547-4db2-91de-c71b12ef1c4c.png)
 
