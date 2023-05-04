@@ -34,4 +34,4 @@ Lastly if the soccer ball's outline is orange, it may be possible for the goalke
 ![Orange](https://user-images.githubusercontent.com/102982612/181079382-581ea4ae-f547-4db2-91de-c71b12ef1c4c.png)
 
 
-This project was submitted to the college board, as part of the AP Computer Science Principles exam. The score received was 5 (awarded to the top 10.8% of test takers).
+The soccer.py file was submitted to the college board, as part of the AP Computer Science Principles exam. The score received was 5 (awarded to the top 10.8% of test takers).
